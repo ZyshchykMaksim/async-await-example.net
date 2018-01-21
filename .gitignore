@@ -1,0 +1,11 @@
+.idea
+.vs
+*.suo
+*.user
+#NuGet
+packages
+Logs
+_ReSharper.*
+bin
+obj
+!packages/repositories.config
